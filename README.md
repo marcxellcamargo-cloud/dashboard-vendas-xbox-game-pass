@@ -8,6 +8,9 @@ Projeto prático do bootcamp **Santander — Excel com IA e Claude**, da platafo
 
 > A imagem acima foi gerada a partir do arquivo com o LibreOffice; no Microsoft Excel a aparência pode variar levemente.
 
+ 
+**[Baixar a planilha (.xlsx)](https://github.com/marcxellcamargo-cloud/dashboard-vendas-xbox-game-pass/raw/main/dashboard_vendas_xbox_game_pass.xlsx)**
+
 ## Contexto e objetivo
 
 O desafio propõe transformar uma base de dados em um dashboard de vendas claro e útil para a tomada de decisão. A base fornecida pela DIO traz **assinaturas do Xbox Game Pass**, e o objetivo é responder perguntas de negócio sobre faturamento, planos, tipos de assinatura e vendas de add-ons (EA Play e Minecraft Season Pass).
