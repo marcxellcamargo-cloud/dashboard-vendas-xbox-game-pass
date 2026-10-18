@@ -1,6 +1,6 @@
 # Dashboard de Vendas no Excel — Xbox Game Pass
 
-Autor: [Marcelo](https://github.com/marcxellcamargo-cloud)
+Autor: [Marcelo Siqueira](https://github.com/marcxellcamargo-cloud)
 
 Projeto prático do bootcamp **Santander — Excel com IA e Claude**, da plataforma **DIO**.
 
