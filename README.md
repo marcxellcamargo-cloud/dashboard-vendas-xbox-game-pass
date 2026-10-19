@@ -90,7 +90,7 @@ Resultados com a base completa: receita líquida de 7.633,00; 295 assinantes; ti
 
 ### O que NÃO foi implementado
 
-- **Tabelas Dinâmicas e Segmentações de Dados (slicers)**: os filtros foram feitos com listas suspensas e fórmulas. Os cálculos do projeto foram validados por recálculo no LibreOffice e comparados com um cálculo independente em Python; o arquivo não foi testado manualmente no Excel.
+- **Tabelas Dinâmicas e Segmentações de Dados (slicers)**: os filtros foram feitos com listas suspensas e fórmulas. Os cálculos do projeto foram validados por recálculo no LibreOffice e comparados com um cálculo independente em Python; o arquivo também foi aberto e conferido manualmente no Excel.
 
 ## Identidade visual
 
